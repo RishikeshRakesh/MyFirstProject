@@ -1,0 +1,27 @@
+div{
+    margin-left: 400px;
+    margin-top: 200px;
+ }
+  #value{
+     margin-left: 50px;
+
+ }
+ 
+ body{
+      background-image: url(cal.jpg);
+     background-size: cover;
+
+ }
+ button:hover{
+    background-color: chocolate;
+    transition-duration: 2s;
+ }
+ input:hover{
+     background-color: gray;
+     transition-duration: 2s;
+ }
+ input{
+
+width: 150px;
+height: 30px;
+ }
